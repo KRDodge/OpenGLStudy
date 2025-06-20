@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "E:\\Project\\OpenGLStudy\\OpenGL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|E:\\Project\\OpenGLStudy\\OpenGL\\Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|solutionrelative:Triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|E:\\Project\\OpenGLStudy\\OpenGL\\triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|solutionrelative:triangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|E:\\Project\\OpenGLStudy\\OpenGL\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|solutionrelative:triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|E:\\Project\\OpenGLStudy\\OpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|E:\\Project\\OpenGLStudy\\OpenGL\\window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|solutionrelative:window.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|E:\\Project\\OpenGLStudy\\OpenGL\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|solutionrelative:glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|E:\\Project\\OpenGLStudy\\OpenGL\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9500F5B3-59AD-4DBF-A92D-0D6BF6CF9786}|OpenGL.vcxproj|solutionrelative:window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Triangle.cpp",
-              "DocumentMoniker": "E:\\Project\\OpenGLStudy\\OpenGL\\Triangle.cpp",
-              "RelativeDocumentMoniker": "Triangle.cpp",
-              "ToolTip": "E:\\Project\\OpenGLStudy\\OpenGL\\Triangle.cpp",
-              "RelativeToolTip": "Triangle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Project\\OpenGLStudy\\OpenGL\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\Project\\OpenGLStudy\\OpenGL\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-18T06:43:56.438Z",
+              "WhenOpened": "2025-06-20T07:38:25.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "window.h",
+              "DocumentMoniker": "E:\\Project\\OpenGLStudy\\OpenGL\\window.h",
+              "RelativeDocumentMoniker": "window.h",
+              "ToolTip": "E:\\Project\\OpenGLStudy\\OpenGL\\window.h",
+              "RelativeToolTip": "window.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-20T07:36:23.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "window.cpp",
+              "DocumentMoniker": "E:\\Project\\OpenGLStudy\\OpenGL\\window.cpp",
+              "RelativeDocumentMoniker": "window.cpp",
+              "ToolTip": "E:\\Project\\OpenGLStudy\\OpenGL\\window.cpp",
+              "RelativeToolTip": "window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T07:36:23.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "triangle.h",
+              "DocumentMoniker": "E:\\Project\\OpenGLStudy\\OpenGL\\triangle.h",
+              "RelativeDocumentMoniker": "triangle.h",
+              "ToolTip": "E:\\Project\\OpenGLStudy\\OpenGL\\triangle.h",
+              "RelativeToolTip": "triangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-20T07:36:23.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "triangle.cpp",
+              "DocumentMoniker": "E:\\Project\\OpenGLStudy\\OpenGL\\triangle.cpp",
+              "RelativeDocumentMoniker": "triangle.cpp",
+              "ToolTip": "E:\\Project\\OpenGLStudy\\OpenGL\\triangle.cpp",
+              "RelativeToolTip": "triangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-20T07:36:23.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "glad.c",
+              "DocumentMoniker": "E:\\Project\\OpenGLStudy\\OpenGL\\glad.c",
+              "RelativeDocumentMoniker": "glad.c",
+              "ToolTip": "E:\\Project\\OpenGLStudy\\OpenGL\\glad.c",
+              "RelativeToolTip": "glad.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-20T07:36:23.156Z",
               "EditorCaption": ""
             }
           ]
